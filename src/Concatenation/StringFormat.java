@@ -1,3 +1,4 @@
+// Question: How can formatted strings present a word problem and check its answer?
 package Concatenation;
 //            `%s`: for strings
 //            `%c`: for character
